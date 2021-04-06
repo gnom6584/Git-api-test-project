@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">git test project</string>
+    <string name="scroll_to_top">Scroll to top</string>
+    <string name="languages">Languages:</string>
+    <string name="bio">Bio</string>
+    <string name="blog">Blog</string>
+    <string name="email">Email</string>
+    <string name="twitter">Twitter</string>
+    <string name="followers_count">Followers count</string>
+    <string name="field_name_pattern">%s: </string>
+    <string name="twitter_link_pattern">https://twitter.com/%s</string>
+</resources>
